@@ -1,4 +1,4 @@
-Turba Open Lab is an open-source community building Python tools, datasets, models, and tools that make site-specific fertilizer recommendation workflows easier to use, reproduce, and extend.
+Turba Open Lab is an open-source community building datasets, models, and tools that make site-specific fertilizer recommendation workflows easier to use, reproduce, and extend.
 
 ## Repositories
 
