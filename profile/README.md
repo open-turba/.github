@@ -1,4 +1,4 @@
-Turba Open Lab builds open-source datasets, models, and tools for mineral, biological, and digital plant fertilization workflows in Morocco.
+Turba Open Lab builds open-source datasets, models, and tools for mineral, biological, and digital plant fertilization in Morocco.
 
 ## Repositories
 
